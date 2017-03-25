@@ -1,2 +1,3 @@
 # dev-kintone
-kintoneを活用してみるテスト
+kintoneを活用してみるテスト。  
+Zapierと連携するよ。
